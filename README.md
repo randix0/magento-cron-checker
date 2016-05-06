@@ -1,1 +1,1 @@
-# magento-cron-checker
+# Usage: php cronProfiler.php
